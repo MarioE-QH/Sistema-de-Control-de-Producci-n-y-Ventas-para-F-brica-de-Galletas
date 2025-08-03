@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>50668</QvBuildNo>
+   <CreatorDoc>C:\Users\mario\Desktop\Proyecto QlikView-Valle\2.Transformadores\MotorTransformador.qvf</CreatorDoc>
+   <CreateUtcTime>2024-01-16 18:24:02</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>hproduccion</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>art_id</FieldName>
+       <BitOffset>24</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>12</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>60</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_cantidad</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>21</NoOfSymbols>
+       <Offset>60</Offset>
+       <Length>105</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpA√±o</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt>###0</Fmt>
+         <Dec>,</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>165</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpMes</FieldName>
+       <BitOffset>28</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>12</NoOfSymbols>
+       <Offset>170</Offset>
+       <Length>121</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpDia</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>###0</Fmt>
+         <Dec>,</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>291</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_fechaFin</FieldName>
+       <BitOffset>16</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>20</NoOfSymbols>
+       <Offset>296</Offset>
+       <Length>320</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+         <String>$timestamp</String>
+         <String>$date</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_fechaInicio</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>11</NoOfSymbols>
+       <Offset>616</Offset>
+       <Length>176</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+         <String>$timestamp</String>
+         <String>$date</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_horaFin</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>792</Offset>
+       <Length>26</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_horaInicio</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>818</Offset>
+       <Length>26</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_id</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>144</NoOfSymbols>
+       <Offset>844</Offset>
+       <Length>720</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>hpr_presupuesto</FieldName>
+       <BitOffset>36</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>FIX</Type>
+         <nDec>2</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>14</NoOfSymbols>
+       <Offset>1564</Offset>
+       <Length>70</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>per_id</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>1634</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>pla_id</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>1639</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>res_id</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>1644</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>5</RecordByteSize>
+   <NoOfRecords>144</NoOfRecords>
+   <Offset>1649</Offset>
+   <Length>720</Length>
+   <Lineage></Lineage>
+   <Comment></Comment>
+   <EncryptionInfo></EncryptionInfo>
+   <TableTags></TableTags>
+   <ProfilingData></ProfilingData>
+ </QvdTableHeader>
+                         	   
+         2   d   ,  »   P   Z   x   Ë  º  Ñ  Ù  –  ê     à  ∏  ∞  (#   N  @  '  Á     ene.    feb.    mar.    abr.    may.    jun.    jul.    ago. 	   sept. 
+   oct.    nov.    dic.    Ø  2023-01-01 ûØ  2023-02-01 ∫Ø  2023-03-01 ŸØ  2023-04-01 ‚Ø  2023-04-10  ∞  2023-05-10 
+∞  2023-05-20 ∞  2023-06-01 ∞  2023-06-07 4∞  2023-07-01 5∞  2023-07-02 S∞  2023-08-01 T∞  2023-08-02 r∞  2023-09-01 s∞  2023-09-02 ê∞  2023-10-01 í∞  2023-10-03 ô∞  2023-10-10 ∏∞  2023-11-10 „∞  2023-12-23 Ø  2023-01-01 ûØ  2023-02-01 ∫Ø  2023-03-01 ŸØ  2023-04-01 ˜Ø  2023-05-01 ∞  2023-06-01 4∞  2023-07-01 S∞  2023-08-01 r∞  2023-09-01 ê∞  2023-10-01 Ø∞  2023-11-01       ‡?12:00:00.0000000 UUUUUU’?08:00:00.0000000                         	   
+                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z   {   |   }   ~      Ä   Å   Ç   É   Ñ   Ö   Ü   á   à   â   ä   ã   å   ç   é   è   ê   »   Ë     ê  Ù  –  ∏  Ñ  à  ‹  X  †  @  (#                                        	  	 
+  
+     0@     0 !"Q#1$A % &'! (1!)a"*a#+a$0%1&2R'32(4B) 5* 6+7",82-9b.:b/;b0@S1	AS2	BS3
+Cs4DC5
+E6
+F7G#8H9IÉ:JÉ;KÉ<P=Q>RT?S4@TDA UB VCW$DX4EYdFZdG[dH	`I
+aJ	bUK	c5L	dEM 	eN 	fO	g%P	h5Q
+
+iUR
+
+jUS
+
+kUTpUqVrVWs6XtFY uZ v[w&\x6]
+yÜ^
+zÜ_
+{Ü`ÄaÅbÇWcÉ7dÑGe Öf Ügá'hà7i
+âWj
+äWk
+ãWlêmëníXoì8pîHq ïr ñsó(tò8uôhvöhwõhx†y°iz¢Y{£ô|	§}
+•©~
+¶©ßÄ®yÅ©âÇ™âÉ´âÑ∞äÖ±ZÜ≤∫á≥∫à¥äâµZä∂Zã∑ å∏∫çπ⁄é∫⁄èª⁄

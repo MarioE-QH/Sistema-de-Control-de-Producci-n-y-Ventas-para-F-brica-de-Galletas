@@ -1,0 +1,10 @@
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.BE.vbproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.BE.vbproj.GenerateResource.cache
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.BE.vbproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+C:\Users\Soporte\source\repos\APP_GRUPO04\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
